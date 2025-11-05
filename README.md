@@ -42,7 +42,7 @@ A **minimal URL shortener** focused on **speed**, **simplicity**, and **micro-ba
 ---
 
 ### 🔐 3. Passop — React Password Manager  
-**Demo:** Passop  
+**Demo:** [Passop](https://youtu.be/r5UilHhVbCs?si=9CzFEI8jQ_FrMNhf)  
 
 A **secure local password manager** with **encrypted storage** and a clean UI.
 
@@ -55,7 +55,7 @@ A **secure local password manager** with **encrypted storage** and a clean UI.
 ---
 
 ### 🧱 4. CS50x Website Generator  
-**Demo:** CS50x Project  
+**Demo:** [CS50X Project](https://youtu.be/z1x20k7KfTI?si=VOQS0BnJyt7hCpij)
 
 A **dynamic HTML/CSS template generator** built as a **final project for Harvard’s CS50x** course.
 
