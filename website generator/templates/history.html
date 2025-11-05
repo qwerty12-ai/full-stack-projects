@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}Saved Websites{% endblock %}
+
+{% block content %}
+    <h1 class="text-center">Saved Websites</h1>
+    <table class="table table-bordered">
+        <thead>
+            <th>id</th>
+            <th>Type</th>
+            <th>Theme</th>
+            <th>Sections</th>
+        </thead>
+        <tbody>
+            {% for website in websites %}
+            <tr>
+                <td>{{ website['id'] }}</td>
+                <td>{{ website['website_type'] }}</td>
+                <td>{{ website['colour_theme'] }}</td>
+                <td>{{ website['sections'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <a href="/" class="btn btn-secondary">Back</a>
+{% endblock %}
