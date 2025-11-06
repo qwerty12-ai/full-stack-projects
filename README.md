@@ -50,7 +50,9 @@ A **secure local password manager** with **encrypted storage** and a clean UI.
 - CRUD operations for credentials  
 - Client-side encryption with local storage  
 - Built with React + Tailwind CSS  
-- Simple, elegant, offline-friendly  
+- Simple, elegant, offline-friendly
+
+**It is not deployed because it does not contain any authentication. It was my first ever react project.**  
 
 ---
 
