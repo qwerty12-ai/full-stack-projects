@@ -87,6 +87,6 @@ This repository will gradually evolve into a **unified full-stack showcase**, wh
 ## 📧 Contact
 
 **👤 Mohd Abdul Sabeeh**  
-GitHub: [qwerty12-ai](https://github.com/qwerty12-ai)
-Linkedln:
+- GitHub: [qwerty12-ai](https://github.com/qwerty12-ai)
+- Linkedln:
 [mohd abdul sabeeh](https://www.linkedin.com/in/mohd-abdul-sabeeh-38429a2ba)
